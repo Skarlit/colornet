@@ -1,0 +1,6 @@
+tmp
+dataset
+.idea
+model_session.*
+checkpoint
+*.pyc

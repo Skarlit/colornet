@@ -1,0 +1,1 @@
+Based on paper [Let there be Color! Joint End-to-end Learning of Global and Local Image Priorsfor Automatic Image Colorization with Simultaneous Classification](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf)
